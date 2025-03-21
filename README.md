@@ -12,7 +12,7 @@ A simple **password manager** written in Go that securely stores and retrieves p
 ## 📦 Installation
 
 1.**Clone the repository**:
-git clone https://github.com/yourusername/password-vault.git
+git clone https://github.com/MonishaGGowda/password-vault.git
 cd password-vault
 
 2.**Build the binary:**
